@@ -1,0 +1,14 @@
+.\objects\main.o: main.c
+.\objects\main.o: C:\Keil_v5\ARM\PACK\Keil\MDR1986BExx\1.5.3\Libraries\CMSIS\CM1\DeviceSupport\MDR1986VE1T\inc\MDR1986VE1T.h
+.\objects\main.o: C:\Keil_v5\project\test1_Miroslav\RTE\Device\MDR1986BE1T\MDR32F9Qx_config.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: C:\Keil_v5\ARM\PACK\Keil\MDR1986BExx\1.5.3\Libraries\CMSIS\CM1\DeviceSupport\MDR1986VE1T\inc\MDR1986VE1T.h
+.\objects\main.o: C:\Keil_v5\ARM\PACK\Keil\MDR1986BExx\1.5.3\Libraries\CMSIS\CM1\CoreSupport\core_cm1.h
+.\objects\main.o: C:\Keil_v5\ARM\PACK\Keil\MDR1986BExx\1.5.3\Libraries\CMSIS\CM1\CoreSupport\core_cmInstr.h
+.\objects\main.o: C:\Keil_v5\ARM\PACK\Keil\MDR1986BExx\1.5.3\Libraries\CMSIS\CM1\CoreSupport\core_cmFunc.h
+.\objects\main.o: C:\Keil_v5\project\test1_Miroslav\RTE\Device\MDR1986BE1T\system_MDR1986VE1T.h
+.\objects\main.o: timer.h
+.\objects\main.o: buttons.h
+.\objects\main.o: indicator.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\main.o: commytat.h

@@ -1,0 +1,14 @@
+.\objects\indicator.o: indicator.c
+.\objects\indicator.o: indicator.h
+.\objects\indicator.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\indicator.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\indicator.o: C:\Users\geydt_mp\AppData\Local\Arm\Packs\Keil\MDR1986BExx\1.5.3\Libraries\CMSIS\CM1\DeviceSupport\MDR1986VE1T\inc\MDR1986VE1T.h
+.\objects\indicator.o: .\RTE\Device\MDR1986BE1T\MDR32F9Qx_config.h
+.\objects\indicator.o: C:\Users\geydt_mp\AppData\Local\Arm\Packs\Keil\MDR1986BExx\1.5.3\Libraries\CMSIS\CM1\DeviceSupport\MDR1986VE1T\inc\MDR1986VE1T.h
+.\objects\indicator.o: C:\Users\geydt_mp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm1.h
+.\objects\indicator.o: C:\Users\geydt_mp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\indicator.o: C:\Users\geydt_mp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\indicator.o: C:\Users\geydt_mp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\indicator.o: .\RTE\Device\MDR1986BE1T\system_MDR1986VE1T.h
+.\objects\indicator.o: C:\Users\geydt_mp\AppData\Local\Arm\Packs\Keil\MDR1986BExx\1.5.3\Libraries\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_port.h
+.\objects\indicator.o: C:\Users\geydt_mp\AppData\Local\Arm\Packs\Keil\MDR1986BExx\1.5.3\Libraries\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_lib.h
