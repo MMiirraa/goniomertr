@@ -1,0 +1,18 @@
+Dependencies for Project '1', Target 'first': (DO NOT MODIFY !)
+F (.\main.c)(0x5E6A1FB6)(-c --cpu Cortex-M1 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\MDR1986BE1T-I.\RTE\_first-IC:\Users\geydt_mp\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\geydt_mp\AppData\Local\Arm\Packs\Keil\MDR1986BExx\1.5.3\Libraries\CMSIS\CM1\CoreSupport-IC:\Users\geydt_mp\AppData\Local\Arm\Packs\Keil\MDR1986BExx\1.5.3\Libraries\CMSIS\CM1\DeviceSupport\MDR1986VE1T\inc-IC:\Users\geydt_mp\AppData\Local\Arm\Packs\Keil\MDR1986BExx\1.5.3\Libraries\MDR32F9Qx_StdPeriph_Driver\inc-D__UVISION_VERSION="529" -D_RTE_ -DUSE_MDR1986VE1T-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+F (.\init.c)(0x5A38E962)()
+F (.\timer.c)(0x5A380F4E)()
+F (.\timer.h)(0x5A37ED5C)()
+F (.\buttons.c)(0x5E6A1AFC)()
+F (.\buttons.h)(0x5E6A1AFC)()
+F (.\indicator.c)(0x5E6A1AFC)()
+F (.\indicator.h)(0x5E6A1AFE)()
+F (.\commytat.c)(0x5E6B5A3E)()
+F (.\commytat.h)(0x5E6A1A00)()
+F (.\eth_v3.h)(0x580CD100)()
+F (RTE\Device\MDR1986BE1T\MDR32F9Qx_config.h)(0x5C540D10)()
+F (RTE\Device\MDR1986BE1T\startup_MDR1986VE1T.s)(0x559E835E)()
+F (RTE\Device\MDR1986BE1T\system_MDR1986VE1T.c)(0x559E835E)()
+F (RTE\Device\MDR1986BE1T\system_MDR1986VE1T.h)(0x559E835E)()
+F (C:\Keil_v5\ARM\PACK\Keil\MDR1986BExx\1.5.3\Libraries\MDR32F9Qx_StdPeriph_Driver\src\MDR32F9Qx_port.c)(0x5C540CCC)()
+F (C:\Keil_v5\ARM\PACK\Keil\MDR1986BExx\1.5.3\Libraries\MDR32F9Qx_StdPeriph_Driver\src\MDR32F9Qx_timer.c)(0x5DA4112A)()

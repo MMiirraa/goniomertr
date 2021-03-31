@@ -1,0 +1,9 @@
+-c --cpu Cortex-M1 -g -O0 --apcs=interwork --split_sections
+-I C:\Keil_v5\project\test1\RTE
+-I C:\Keil_v5\project\test1\RTE\Device\MDR1986BE1T
+-I C:\Keil_v5\ARM\PACK\Keil\MDR1986BExx\1.4\Config
+-I C:\Keil_v5\ARM\PACK\Keil\MDR1986BExx\1.4\Libraries\CMSIS\CM1\CoreSupport
+-I C:\Keil_v5\ARM\PACK\Keil\MDR1986BExx\1.4\Libraries\CMSIS\CM1\DeviceSupport\MDR1986VE1T\inc
+-I C:\Keil_v5\ARM\CMSIS\Include
+-D__UVISION_VERSION="517" -D_RTE_ -DUSE_MDR1986VE1T
+-o .\objects\$s22$ieee1$iw$usesv6$~stkckd$usesv7$~shl$ospace$ropi$eba8$ux$standardlib$req8$pres8$eabiv2.o --omf_browse .\objects\$s22$ieee1$iw$usesv6$~stkckd$usesv7$~shl$ospace$ropi$eba8$ux$standardlib$req8$pres8$eabiv2.crf --depend .\objects\$s22$ieee1$iw$usesv6$~stkckd$usesv7$~shl$ospace$ropi$eba8$ux$standardlib$req8$pres8$eabiv2.d "init.c"
